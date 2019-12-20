@@ -33,3 +33,8 @@ export const keysToCamel = (o) => {
   }
   return o
 }
+
+/*Validate if object id is Empty*/
+export const isEmpty = (obj) => {
+  return Object.keys(obj).length === 0;
+}
