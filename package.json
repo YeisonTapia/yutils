@@ -1,12 +1,14 @@
 {
-  "name": "utils",
+  "name": "yutils",
   "version": "1.0.0",
   "description": "This is a collection of utils",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Yeison Tapia Lozano"
+  },
   "license": "ISC"
 }
